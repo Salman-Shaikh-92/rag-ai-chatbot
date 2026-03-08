@@ -1,4 +1,4 @@
-#RAG AI Chatbot
+## RAG AI Chatbot
 
 An AI-powered chatbot built using Retrieval-Augmented Generation (RAG) to answer questions based on uploaded documents.
 
