@@ -10,7 +10,7 @@ This project demonstrates how AI can retrieve information from a knowledge base 
 
 You can try the chatbot here:
 
-[Open RAG Chatbot](PASTE_YOUR_DIFY_LINK_HERE)
+[Open RAG Chatbot]([PASTE_YOUR_DIFY_LINK_HERE](https://udify.app/chat/QbCvhGq0J0WMFpDD))
 
 ---
 
